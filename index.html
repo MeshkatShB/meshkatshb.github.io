@@ -9,15 +9,24 @@
 </head>
 <body>
     <div class="container">
+        <nav>
+            <ul>
+                <li><a href="#profile">Profile</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
         <header>
             <h1>Meshkat Shariat-Bagheri</h1>
             <p>Welcome to my personal website</p>
         </header>
-        <section class="profile">
+        <section id="profile" class="profile">
             <img src="./src/profile-pic-2.png" alt="Meshkat Shariat-Bagheri">
             <p>Hello! I'm Meshkat, a Data Scientist. I have a passion for Software Engineering, AI, and LLMs.</p>
         </section>
-        <section class="content">
+        <section id="about" class="content">
             <h2>About Me</h2>
             <p>I am currently a master's student of <a href="https://coinlab.ut.ac.ir/">COINLab</a> at University of Tehran. I specialize in NLP, Graphs, and Social Network Analysis.</p>
             <p>I got my Bachelor's degree in Computer Engineering at The University of Tehran in 2020. My major was in Information Technology which included courses like Artificial Intelligence, Computer Networks, Operating Systems, Computer Networks Security, Data Structure, Design Algorithms, Database Design, Internet Engineering, Information Technology Project Management, Introduction to E-Commerce, and more courses. Most of the courses had computer assignments and I was buckled with different programming languages like C, C++, Java, and Python. Finally, at the end of the third semester, I decided to work my projects up to graduation with Python due to the fast & practical aspects of this famous language.</p>
@@ -25,12 +34,30 @@
             <p>As I Enjoy different types of music, I'm a fan of the Rock/Soft Rock genre. During work, I listen to calm, no vocals, and instrumental pieces of music such as Mozart, Chopin, and Max Richter's works. In my free time, I enjoy reading books & watching some anime.</p>
             <h2>Why Software Development?</h2>
             <p>In 2016, I embarked on my programming journey by learning Python. After gaining proficiency in Python, I dived into Django REST Framework and FastAPI, where I honed my skills in building web applications and APIs. Subsequently, I transitioned to learning JavaScript, which allowed me to expand my expertise in both back-end and front-end development. As I delved deeper into JavaScript, I took on freelance projects to apply my knowledge and also obtained relevant certifications to further enhance my understanding of the language. Along the way, I explored various web application-driven technologies, constantly striving to improve my app development capabilities and create more resilient and efficient applications.</p>
+        </section>
+        <section id="projects" class="content">
             <h2>Projects</h2>
-            <ul>
-                <li><a href="https://github.com/yourusername/project1">Project 1</a> - Description of project 1.</li>
-                <li><a href="https://github.com/yourusername/project2">Project 2</a> - Description of project 2.</li>
-                <li><a href="https://github.com/yourusername/project3">Project 3</a> - Description of project 3.</li>
+            <ul class="projects">
+                <li>
+                    <a href="https://github.com/meshkatshb/rzn/tree/master">RZN Campaign</a>
+                    <ul>
+                        <li>Developed an application (PWA) enabling QR code scanning for product identification</li>
+                        <li>Achieved a 30% increase in user engagement through QR code scanning feature</li>
+                        <li>Orchestrated prize selection process using login numbers, awarding 500 prizes to users</li>
+                        <li><strong>Technologies Used:</strong> Express.js, JS, Vite, Nginx, Vue, MongoDB, MySQL, Git</li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="https://github.com/meshkatshb/">Freelance (Ponisha)</a>
+                    <ul>
+                        <li>Developed a lightweight e-commerce platform utilizing TypeScript, React, and JS to mirror Amazon’s functionality</li>
+                        <li>Accelerated the product addition process by 25% and boosted successful user purchases by 40%</li>
+                        <li><strong>Technologies Used:</strong> TypeScript, React, Redux, npm, JavaScript, Tailwind, Shadcn/ui, Git</li>
+                    </ul>
+                </li>
             </ul>
+        </section>
+        <section id="skills" class="content">
             <h2>Skills</h2>
             <ul class="skills">
                 <li><strong>General:</strong> Object-oriented Programming, CI/CD, Testing, Agile Methodologies, Web Dev.</li>
@@ -38,6 +65,8 @@
                 <li><strong>Frameworks:</strong> Django, Node.js, Express.js, React.js, Vue, FastAPI, Kubernetes</li>
                 <li><strong>Tools:</strong> Git, Docker, Linux, Swagger, Nginx, RabbitMQ</li>
             </ul>
+        </section>
+        <section id="contact" class="content">
             <h2>Contact</h2>
             <p>You can reach me at <a href="mailto:meshkatshb@gmail.com">meshkatshb@gmail.com</a>.</p>
         </section>
