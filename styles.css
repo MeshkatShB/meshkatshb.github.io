@@ -6,63 +6,111 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f8f8;
     color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    width: 90%;
+    max-width: 800px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 header {
-    background: #333;
-    color: #fff;
-    padding: 2rem;
     text-align: center;
+    margin-bottom: 20px;
 }
 
 header h1 {
-    margin-bottom: 0.5rem;
+    font-size: 2.5rem;
+    margin-bottom: 10px;
 }
 
 header p {
-    margin: 0;
+    font-size: 1.2rem;
+    color: #666;
 }
 
-main {
-    padding: 2rem;
-    max-width: 800px;
-    margin: 0 auto;
+.profile {
+    text-align: center;
+    margin-bottom: 20px;
 }
 
-h2 {
-    margin-top: 1.5rem;
+.profile img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 15px;
+}
+
+.content h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
     border-bottom: 2px solid #333;
-    padding-bottom: 0.5rem;
-    color: #333;
+    padding-bottom: 5px;
 }
 
-ul {
-    list-style: none;
+.content p {
+    margin-bottom: 15px;
 }
 
-li {
-    margin-bottom: 1rem;
+.content ul {
+    list-style-type: none;
+    padding-left: 0;
 }
 
-a {
+.content ul li {
+    margin-bottom: 10px;
+}
+
+.content ul li a {
     color: #007bff;
     text-decoration: none;
 }
 
-a:hover {
+.content ul li a:hover {
     text-decoration: underline;
 }
 
 footer {
-    background: #333;
-    color: #fff;
-    padding: 1rem;
     text-align: center;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.skills {
+    margin: 20px;
+}
+
+.skills h3 {
+    margin-bottom: 10px;
+}
+
+.skills ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.skills li {
+    margin-bottom: 5px;
+}
+
+.skills li strong {
+    font-weight: bold;
 }
