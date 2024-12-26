@@ -15,11 +15,15 @@ I am currently looking for PhD positions in Europe in the field of GenAI, SE, Gr
 
 # My Expertise
 
-- **General:** Data Analysis, Data Science, NLP, GenAI, AI, ML, and GNNs.
+- **General:** NLP, GenAI, AI, ML, GNNs, and Data Science.
 - **Languages:** Python, Go, JS, and SQL.
 - **Frameworks:** PyTorch, TensorFlow, Keras, Django, and Node.js.
 - **Databases:** MongoDB, MySQL, and PostgreSQL.
 - **Tools:** Git, LATEX, VSCode, PyCharm, Jira, Docker, and Jupyter Notebook.
+
+# My Journey
+
+From crafting push notification solutions at Najva to designing robust software architectures at Gamelectronics, my journey as a Software Engineer has been marked by impactful contributions. At Najva, I enhanced advertising systems with cutting-edge push notification technologies. Later, at Gamelectronics, I spearheaded the redesign and optimization of the company’s software architecture, significantly improving documentation and document retrieval efficiency. Each role has been a step toward mastering innovative solutions that deliver real-world results.
 
 # Education
 
