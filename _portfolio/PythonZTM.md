@@ -4,8 +4,6 @@ excerpt: "An in-depth exploration of Python, covering hot topics, useful librari
 collection: portfolio
 ---
 
-# Python Zero to Mastery
-
 **About:**  
 This repository is an evolving resource aimed at exploring the Python programming language in depth. It focuses on hot topics and practical libraries to provide a comprehensive understanding of Python. The repository is regularly updated to include the latest developments in Python programming.
 

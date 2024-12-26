@@ -4,8 +4,6 @@ excerpt: "A step-by-step guide to mastering PyTorch, covering tensors, neural ne
 collection: portfolio
 ---
 
-# PyTorch Zero to Mastery
-
 **About:**  
 This repository serves as a comprehensive guide to learning PyTorch from scratch. It covers essential concepts, practical implementations, and advanced techniques, making it a perfect resource for beginners and intermediate learners. The repository is regularly updated with new content to stay current with PyTorch advancements.
 

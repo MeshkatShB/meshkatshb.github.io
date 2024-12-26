@@ -4,8 +4,6 @@ excerpt: "A comprehensive guide to mastering Large Language Models (LLMs) throug
 collection: portfolio
 ---
 
-# LLM Zero to Mastery
-
 **About:**  
 This repository is a comprehensive guide to mastering Large Language Models (LLMs) through hands-on projects. It provides step-by-step implementations of advanced techniques like Retrieval-Augmented Generation (RAG), fine-tuning GPT models, and instruction-tuning. Each module is designed to help users effectively learn and apply LLM concepts with practical examples.
 
