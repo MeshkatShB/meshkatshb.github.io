@@ -2,6 +2,7 @@
 title: "ConnectToVPN"
 excerpt: "A Python-based script for automating VPN connections."
 collection: portfolio
+priority: 10
 ---
 
 [ConnectToVPN](https://github.com/MeshkatShB/ConnectToVPN) is a Python-based project designed to simplify and automate VPN connection processes, saving time and enhancing ease of use.

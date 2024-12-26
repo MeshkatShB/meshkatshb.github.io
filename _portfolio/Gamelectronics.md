@@ -2,6 +2,7 @@
 title: "Gamelectronics Document Management System"
 excerpt: "Enhanced and optimized software architecture for document management and retrieval."
 collection: portfolio
+priority: 10
 ---
 
 As a Software Developer at Gamelectronics, I redesigned and optimized the company’s software architecture for documentation and document retrieval systems.

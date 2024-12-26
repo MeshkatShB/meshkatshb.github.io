@@ -2,6 +2,7 @@
 title: "Najva Push Notification Optimization"
 excerpt: "Optimized push notification services and improved codebase quality metrics."
 collection: portfolio
+priority: 10
 ---
 
 At Najva, I optimized multiple services like RSS, achieving a 25% performance boost and a 30% faster response time for push notifications.
