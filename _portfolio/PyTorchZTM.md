@@ -1,6 +1,6 @@
 ---
 title: "PyTorch Zero to Mastery"
-excerpt: "A step-by-step guide to mastering PyTorch, covering tensors, neural networks, and GPU utilization.<br/><img src='/images/pytorch_zero_to_mastery.png'>"
+excerpt: "A step-by-step guide to mastering PyTorch, covering tensors, neural networks, and GPU utilization.<br/><img src='/images/pytorch.png'>"
 collection: portfolio
 ---
 
