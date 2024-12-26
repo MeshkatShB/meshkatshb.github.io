@@ -2,6 +2,7 @@
 title: "LLM Zero to Mastery"
 excerpt: "A comprehensive guide to mastering Large Language Models (LLMs) through hands-on projects."
 collection: portfolio
+priority: 1
 ---
 
 **About:**  

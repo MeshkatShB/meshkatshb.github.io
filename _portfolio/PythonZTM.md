@@ -2,6 +2,7 @@
 title: "Python Zero to Mastery"
 excerpt: "An in-depth exploration of Python, covering hot topics, useful libraries, and advanced programming concepts."
 collection: portfolio
+priority: 1
 ---
 
 **About:**  
