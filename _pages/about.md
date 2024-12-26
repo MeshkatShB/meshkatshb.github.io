@@ -9,7 +9,7 @@ redirect_from:
 
 Hello everyone! My name is Meshkat which means "placeholder for light" in my native language. Welcome to my personal webpage!
 
-I hold a Bachelor's degree in **Computer Engineering** and Master's degree in **Information Technology Engineering** from _University of Tehran_ with GPA of 3.61/4.0. My research interests are **Large Language Models**, **Natural Language Processing**, **AI**, **ML**, **Social Network Analysis**, and **Software Engineering**.
+I hold a Bachelor's degree in **Computer Engineering** and a Master's degree in **Information Technology Engineering** from the _University of Tehran_, graduating with a GPA of 3.61/4.0. My research interests include _Large Language Models_, _Natural Language Processing_, _Artificial Intelligence (AI)_, _Machine Learning (ML)_, _Social Network Analysis_, and _Software Engineering_.
 
 I am currently looking for PhD positions in Europe in the field of GenAI, SE, Graphs, and Social Networks.
 
@@ -27,22 +27,18 @@ From crafting push notification solutions at Najva to designing robust software 
 
 # What Drives My Curiosity
 
-My research interests lie at the intersection of Graph Neural Networks, Information Retrieval, XAI, and Generative AI. I am particularly passionate about developing models that bridge human understanding and machine learning, focusing on long text summarization, anomaly detection in complex networks, and generating insightful representations of data. I aim to explore how representation learning and GenAI can capture high-level semantics in attributed networks, improving explainability and real-world applicability. Additionally, I am intrigued by leveraging large language models and generative systems for cultural heritage preservation and digital twin systems, aspiring to uncover actionable insights from both structured and unstructured data.
+My research interests lies at the intersection of Graph Neural Networks, Information Retrieval, Explainable AI (XAI), and Generative AI. I am passionate about developing models that bridge human understanding and machine learning, focusing on long text summarization, anomaly detection in complex networks, and generating meaningful data representations. I aim to explore how representation learning and GenAI can capture high-level semantics in attributed networks, improving explainability and real-world applicability. Additionally, I am intrigued by leveraging large language models and generative systems for cultural heritage preservation and digital twin systems, aspiring to uncover actionable insights from both structured and unstructured data.
 
 # Where I Learned
 
-### M.Sc. in Information Technology Engineering
-
-**University of Tehran**, 2024
+### M.Sc. in Information Technology Engineering, University of Tehran, 2024
 
 - **GPA**: 3.61/4.0 | **Last Two Semesters**: 3.75/4.0
 - **Thesis**: _Text Summarization with Graph Neural Networks_
 
 ---
 
-### B.Sc. in Computer Engineering
-
-**University of Tehran**, 2020
+### B.Sc. in Computer Engineering, University of Tehran, 2020
 
 - **GPA**: 3.0/4.0 | **Last Two Years**: 3.52/4.0
 - **Thesis**: _Implementing OpenStack as an IoT (Internet of Things) Platform_
