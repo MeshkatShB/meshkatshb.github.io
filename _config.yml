@@ -25,7 +25,7 @@ author:
   name: "Meshkat"
   pronouns: "he/him"
   bio: "Looking for PhD Positions"
-  location: "Iran"
+  location: # "Iran"
   employer: # "University of Tehran"
   uri: # URL
   email: "meshkatshb@gmail.com"
