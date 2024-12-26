@@ -24,7 +24,7 @@ author:
   avatar: "profile-pic-2.png"
   name: "Meshkat"
   pronouns: "he/him"
-  bio: "Looking for PhD Positions"
+  bio: "Bridging code and creativity to shape a smarter world"
   location: # "Iran"
   employer: # "University of Tehran"
   uri: # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv: # URL - Update with the correct link to your profile
-  googlescholar: # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=g7dY5ZMAAAAJ"
   impactstory: # URL
   orcid: # "http://orcid.org/yourorcidurl"
   semantic: # URL
