@@ -1,6 +1,6 @@
 ---
 title: "Freelance E-commerce Platform"
-excerpt: "A lightweight e-commerce platform designed to mirror Amazon’s functionality.>"
+excerpt: "A lightweight e-commerce platform designed to mirror Amazon’s functionality."
 collection: portfolio
 ---
 
