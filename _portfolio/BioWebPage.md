@@ -1,6 +1,6 @@
 ---
 title: "Bio-Ceramic Website Management"
-excerpt: "Managed and enhanced website content, boosting user satisfaction and traffic.<br/><img src='/images/bioceramic_website.png'>"
+excerpt: "Managed and enhanced website content, boosting user satisfaction and traffic."
 collection: portfolio
 ---
 

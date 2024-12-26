@@ -1,6 +1,6 @@
 ---
 title: "Gamelectronics Document Management System"
-excerpt: "Enhanced and optimized software architecture for document management and retrieval.<br/><img src='/images/gamelectronics.png'>"
+excerpt: "Enhanced and optimized software architecture for document management and retrieval."
 collection: portfolio
 ---
 

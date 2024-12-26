@@ -1,6 +1,6 @@
 ---
 title: "LLM Zero to Mastery"
-excerpt: "A comprehensive guide to mastering Large Language Models (LLMs) through hands-on projects.<br/><img src='/images/llm_zero_to_mastery.png'>"
+excerpt: "A comprehensive guide to mastering Large Language Models (LLMs) through hands-on projects."
 collection: portfolio
 ---
 

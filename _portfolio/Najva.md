@@ -1,6 +1,6 @@
 ---
 title: "Najva Push Notification Optimization"
-excerpt: "Optimized push notification services and improved codebase quality metrics.<br/><img src='/images/najva_push.png'>"
+excerpt: "Optimized push notification services and improved codebase quality metrics."
 collection: portfolio
 ---
 

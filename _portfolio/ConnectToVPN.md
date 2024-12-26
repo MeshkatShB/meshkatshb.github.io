@@ -1,6 +1,6 @@
 ---
 title: "ConnectToVPN"
-excerpt: "A Python-based script for automating VPN connections.<br/><img src='/images/connect_to_vpn.png'>"
+excerpt: "A Python-based script for automating VPN connections."
 collection: portfolio
 ---
 

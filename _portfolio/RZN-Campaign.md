@@ -1,6 +1,6 @@
 ---
 title: "RZN Campaign"
-excerpt: "A Progressive Web App (PWA) for product identification and prize distribution.<br/><img src='/images/rzn_campaign.png'>"
+excerpt: "A Progressive Web App (PWA) for product identification and prize distribution."
 collection: portfolio
 ---
 
