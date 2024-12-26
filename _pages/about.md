@@ -9,7 +9,7 @@ redirect_from:
 
 Hello everyone! My name is Meshkat which means "placeholder for light" in my native language. Welcome to my personal webpage!
 
-I hold a Bachelor's degree in **Computer Engineering** and a Master's degree in **Information Technology Engineering** from the _University of Tehran_, graduating with a GPA of 3.61/4.0. My research interests include _Large Language Models_, _Natural Language Processing_, _Artificial Intelligence (AI)_, _Machine Learning (ML)_, _Social Network Analysis_, and _Software Engineering_.
+I hold a Bachelor's degree in **Computer Engineering** and a Master's degree in **Information Technology Engineering** from the [_University of Tehran_](https://ut.ac.ir), [_College of Interdisciplinary Sciences and Technology_](https://cist.ut.ac.ir), graduating with a GPA of 3.61/4.0. My research interests include _Large Language Models_, _Natural Language Processing_, _Artificial Intelligence (AI)_, _Machine Learning (ML)_, _Social Network Analysis_, and _Software Engineering_.
 
 I am currently looking for PhD positions in Europe in the field of GenAI, SE, Graphs, and Social Networks.
 
