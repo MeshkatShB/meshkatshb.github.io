@@ -5,6 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %} {% assign sorted_portfolio = site.portfolio | sort:
-"priority" %} {% for post in sorted_portfolio %} {% include archive-single.html
-%} {% endfor %}
+{% include base_path %} {% for post in site.portfolio | where: "priority", 1 %}
+{% include archive-single.html %} {% endfor %} {% for post in site.portfolio %}
+{% if post.priority != 1 %} {% include archive-single.html %} {% endif %} {%
+endfor %}
