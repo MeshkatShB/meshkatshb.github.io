@@ -31,10 +31,18 @@ My research interests lie at the intersection of Graph Neural Networks, Informat
 
 # Where I Learned
 
-M.Sc. of Information Technology Engineering from University of Tehran, 2024. (GPA: 3.61/4.0, Last Two Semesters: 3.75/4.0)
+### M.Sc. in Information Technology Engineering
 
-- Thesis: "Text Summarization with Graph Neural Networks"
+**University of Tehran**, 2024
 
-B.Sc. of Computer Engineering from University of Tehran, 2020. (GPA: 3.0/4.0, Last Two Years: 3.52/4.0)
+- **GPA**: 3.61/4.0 | **Last Two Semesters**: 3.75/4.0
+- **Thesis**: _Text Summarization with Graph Neural Networks_
 
-- Thesis: "Implementing OpenStack as an IoT (Internet of Things) Platform"
+---
+
+### B.Sc. in Computer Engineering
+
+**University of Tehran**, 2020
+
+- **GPA**: 3.0/4.0 | **Last Two Years**: 3.52/4.0
+- **Thesis**: _Implementing OpenStack as an IoT (Internet of Things) Platform_
