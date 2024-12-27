@@ -4,6 +4,7 @@ date: 2024-12-27
 permalink: /posts/2024/12/structured-outputs/
 tags:
   - OpenAI
+  - DevDay
   - structured outputs
   - LLMs
   - API

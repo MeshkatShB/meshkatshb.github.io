@@ -4,6 +4,7 @@ date: 2024-12-27
 permalink: /posts/2024/12/realtime-api/
 tags:
   - OpenAI
+  - DevDay
   - realtime API
   - multimodal
 ---
