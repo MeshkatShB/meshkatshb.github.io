@@ -8,7 +8,7 @@ tags:
   - multimodal
 ---
 
-OpenAI introduced the **Realtime API**, enabling low-latency, multimodal interactions for building voice-driven applications. This API unifies speech-to-speech capabilities, natively understanding and generating speech without intermediate text conversion, providing developers with powerful tools for natural and fluid interactions.
+OpenAI introduced the **Realtime API**, enabling low-latency, multimodal interactions for building voice-driven applications. This API unifies speech-to-speech capabilities, natively understanding and generating speech without intermediate text conversion, providing developers with powerful tools for natural and fluid interactions. For full video, check out this link: [YouTube](https://www.youtube.com/watch?v=mM8KhTxwPgs&ab_channel=OpenAI)
 
 ### Evolution of the API
 

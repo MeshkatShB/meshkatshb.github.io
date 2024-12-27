@@ -9,7 +9,7 @@ tags:
   - API
 ---
 
-OpenAI introduced **structured outputs** in August, a transformative feature in their API that ensures AI-generated outputs adhere to developer-specified JSON schemas. This innovation addresses long-standing challenges in working with LLMs, particularly reliability issues in text-to-JSON transformations.
+OpenAI introduced **structured outputs** in August, a transformative feature in their API that ensures AI-generated outputs adhere to developer-specified JSON schemas. This innovation addresses long-standing challenges in working with LLMs, particularly reliability issues in text-to-JSON transformations. For full video, check out this link: [YouTube](https://www.youtube.com/watch?v=kE4BkATIl9c&ab_channel=OpenAI)
 
 ### Why Structured Outputs?
 
