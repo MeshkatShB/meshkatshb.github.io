@@ -1,5 +1,5 @@
 ---
-title: "Structured Outputs: Unlocking Reliable AI Applications"
+title: "[OpenAI] Structured Outputs: Unlocking Reliable AI Applications"
 date: 2024-12-27
 permalink: /posts/2024/12/structured-outputs/
 tags:

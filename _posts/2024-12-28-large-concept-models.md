@@ -1,5 +1,5 @@
 ---
-title: "Large Concept Models: Redefining AI Beyond Large Language Models"
+title: "[Meta] Large Concept Models: Redefining AI Beyond Large Language Models"
 date: 2024-12-28
 permalink: /posts/2024/12/large-concept-models/
 tags:

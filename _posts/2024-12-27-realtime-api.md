@@ -1,5 +1,5 @@
 ---
-title: "Realtime API: Revolutionizing Multimodal Interactions"
+title: "[OpenAI] Realtime API: Revolutionizing Multimodal Interactions"
 date: 2024-12-27
 permalink: /posts/2024/12/realtime-api/
 tags:

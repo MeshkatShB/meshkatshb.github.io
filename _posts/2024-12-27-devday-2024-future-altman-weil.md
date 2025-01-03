@@ -1,5 +1,5 @@
 ---
-title: "OpenAI DevDay 2024 - Fireside chat with Sam Altman and Kevin Weil"
+title: "[OpenAI] OpenAI DevDay 2024 - Fireside chat with Sam Altman and Kevin Weil"
 date: 2024-12-27
 permalink: /posts/2024/12/devday-2024-future-altman-weil/
 tags:
