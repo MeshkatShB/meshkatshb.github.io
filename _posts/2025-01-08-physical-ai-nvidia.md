@@ -74,5 +74,3 @@ NVIDIA’s use of synthetic data is critical to scaling AI for physical systems.
 ## The Future of Physical AI
 
 Physical AI is poised to transform industries, from warehouses using digital twins to optimize logistics, to autonomous vehicles redefining transportation. NVIDIA’s platforms—Cosmos, Isaac Groot, and Thor—are setting the foundation for a future where robots and AI systems seamlessly integrate into the physical world.
-
-What do you think about NVIDIA’s vision for Physical AI? Could this be the breakthrough we’ve been waiting for in robotics and autonomous systems? Share your thoughts in the comments below.
