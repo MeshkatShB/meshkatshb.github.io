@@ -17,11 +17,11 @@ I am currently looking for PhD positions in Europe in the field of Generative AI
 
 # My Expertise
 
-- **General:** NLP, GenAI, AI, ML, GNNs, and Data Science.
-- **Languages:** Python, Go, JS, and SQL.
-- **Frameworks:** PyTorch, TensorFlow, Keras, Django, and Node.js.
-- **Databases:** MongoDB, MySQL, and PostgreSQL.
-- **Tools:** Git, LATEX, VSCode, PyCharm, Jira, Docker, and Jupyter Notebook.
+- **General:** GenAI - NLP - AI - ML - GNNs - Data Science.
+- **Languages:** Python - Go - JS - SQL.
+- **Frameworks:** PyTorch - TensorFlow - Keras - Django - Node.js.
+- **Databases:** MongoDB - MySQL - PostgreSQL.
+- **Tools:** Git - $\LaTeX$ - VSCode - PyCharm - Jira - Docker - Jupyter Notebook.
 
 # My Journey
 
