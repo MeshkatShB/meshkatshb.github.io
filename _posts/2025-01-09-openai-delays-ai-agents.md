@@ -9,7 +9,8 @@ tags:
   - AI Safety
 ---
 
-As 2025 unfolds as the "Year of AI Agents," many are questioning why OpenAI, a leader in AI innovation, has yet to release its highly anticipated AI agents. Competitors like Google with **Project Mariner** and Anthropic with **Claude’s computer-use capabilities** have already entered the race. However, OpenAI’s hesitation stems from critical safety and reliability concerns.
+As 2025 unfolds as the "Year of AI Agents," many are questioning why OpenAI, a leader in AI innovation, has yet to release its highly anticipated AI agents. Competitors like Google with **Project Mariner** and Anthropic with **Claude’s computer-use capabilities** have already entered the race. However, OpenAI’s hesitation stems from critical safety and reliability concerns. See the youtube video below for more information:
+[YouTube](https://www.youtube.com/watch?v=EzMUdzdwgcE)
 
 ---
 
