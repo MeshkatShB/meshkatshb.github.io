@@ -1,6 +1,6 @@
 ---
 title: "Contributions to browser-use/web-ui"
-excerpt: "Enhancing functionality and user experience in a project with over 2,000 stars."
+excerpt: "Enhancing functionality and user experience in a project with nearly 3k stars."
 collection: portfolio
 priority: 1
 ---
@@ -14,7 +14,31 @@ I contributed to this project by focusing on improving functionality, stability,
 
 ## Contributions
 
-### 1. Suppressing User Warnings
+### 1. Adding Base URL for ChatOllama
+
+- **Description:** Integrated a base URL parameter to enable ChatOllama to read from remote servers.
+- **Impact:** Expanded the flexibility of ChatOllama, supporting remote server connections for enhanced usability.
+- **Pull Request:** [#114](https://github.com/browser-use/web-ui/pull/114)
+
+---
+
+### 2. Exception Handling Hotfix
+
+- **Description:** Resolved an issue where missing values in exception handling caused unintended errors.
+- **Impact:** Improved error-handling mechanisms, leading to a more robust application.
+- **Pull Request:** [#109](https://github.com/browser-use/web-ui/pull/109)
+
+---
+
+### 3. Agent History Feature
+
+- **Description:** Introduced a feature to save agent history, enabling users to review their interactions over time.
+- **Impact:** Enhanced user experience by providing a persistent history for better context and continuity.
+- **Pull Request:** [#105](https://github.com/browser-use/web-ui/pull/105)
+
+---
+
+### 4. Suppressing User Warnings
 
 - **Description:** Set default values for the LLM provider and model to eliminate specific user warnings.
 - **Impact:** Enhanced user experience by ensuring smoother configuration and reduced error prompts.
@@ -22,7 +46,7 @@ I contributed to this project by focusing on improving functionality, stability,
 
 ---
 
-### 2. Codebase Cleanup
+### 5. Codebase Cleanup
 
 - **Description:** Refactored code to generalize the LLM provider and model selection, improving maintainability and readability.
 - **Impact:** Streamlined the codebase, making it easier for developers to extend and maintain.
@@ -30,7 +54,7 @@ I contributed to this project by focusing on improving functionality, stability,
 
 ---
 
-### 3. Bug Fixes
+### 6. Browser Initialization Bug Fix
 
 - **Description:** Fixed an `UnboundLocalError` by ensuring proper browser initialization and closure.
 - **Impact:** Improved stability and reliability of the application.
@@ -38,7 +62,7 @@ I contributed to this project by focusing on improving functionality, stability,
 
 ---
 
-### 4. Documentation Enhancement
+### 7. Documentation Enhancement
 
 - **Description:** Updated the README to include detailed explanations for the `--theme` and `--dark-mode` options.
 - **Impact:** Improved user guidance and onboarding for new contributors and users.
@@ -47,6 +71,6 @@ I contributed to this project by focusing on improving functionality, stability,
 ---
 
 **Outcome:**  
-These contributions have been successfully merged into the main branch, enhancing the project's functionality and user experience.
+These contributions have been successfully merged into the main branch, enhancing the project's functionality, stability, and user experience.
 
 **Explore the repository here:** [browser-use/web-ui](https://github.com/browser-use/web-ui)
