@@ -13,7 +13,11 @@ Feel free to check out my **_GitHub repository_** here: [_GitHub_](https://githu
 
 I hold a Bachelor's degree in **Computer Engineering** and a Master's degree in **Information Technology Engineering** from the [_University of Tehran_](https://ut.ac.ir), [_College of Interdisciplinary Sciences and Technology_](https://cist.ut.ac.ir), graduating with a GPA of 3.61/4.0. My Master's thesis titled: **"Text Summarization with Graph Neural Networks,"** explored scalable methods for long-text summarization and highlighted the importance of transparent AI models.. My research interests include _Large Language Models_, _Natural Language Processing_, _Artificial Intelligence (AI)_, _Machine Learning (ML)_, _Social Network Analysis_, and _Software Engineering_.
 
-I am currently looking for PhD positions in Europe in the field of Generative AI, NLP, Software Engineering, and Graphs.
+> I am currently looking for PhD positions in Europe in the field of Generative AI, NLP, Software Engineering, and Graphs.
+
+I have actively contributed to the `browser-use/web-ui` open-source project, implementing key features such as a `RAG implementation` and functionality for saving and using user settings to enhance the overall experience. I also focused on improving system stability by addressing critical issues, including resolving exceptions and fixing errors like `UnboundLocalError`.
+
+My contributions extended to backend optimizations, such as adding necessary packages to the Dockerfile, integrating a base URL for ChatOllama to interact with remote servers, and introducing an LLM provider with default model settings to suppress warnings. Additionally, I streamlined the codebase through cleanup efforts and updated documentation, ensuring the project is maintainable and scalable for future development.
 
 # My Expertise
 
