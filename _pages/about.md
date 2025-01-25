@@ -25,11 +25,15 @@ I am currently looking for PhD positions in Europe in the field of Generative AI
 
 # My Journey
 
-From crafting push notification solutions at Najva to designing robust software architectures at Gamelectronics, my journey as a Software Engineer has been marked by impactful contributions. At Najva, I enhanced advertising systems with cutting-edge push notification technologies. Later, at Gamelectronics, I spearheaded the redesign and optimization of the company’s software architecture, significantly improving documentation and document retrieval efficiency. Each role has been a step toward mastering innovative solutions that deliver real-world results.
+From crafting push notification solutions at Najva to designing robust software architectures at Gamelectronics, my journey as a Software Engineer has been marked by impactful contributions. At Najva, I enhanced advertising systems with cutting-edge push notification technologies.
+
+Later, at Gamelectronics, I spearheaded the redesign and optimization of the company’s software architecture, significantly improving documentation and document retrieval efficiency. Each role has been a step toward mastering innovative solutions that deliver real-world results.
 
 # What Drives My Curiosity
 
-My research interests lies at the intersection of Graph Neural Networks, Information Retrieval, Explainable AI (XAI), and Generative AI. I am passionate about developing models that bridge human understanding and machine learning, focusing on long text summarization, anomaly detection in complex networks, and generating meaningful data representations. I aim to explore how representation learning and GenAI can capture high-level semantics in attributed networks, improving explainability and real-world applicability. Additionally, I am intrigued by leveraging large language models and generative systems for cultural heritage preservation and digital twin systems, aspiring to uncover actionable insights from both structured and unstructured data.
+My research interests lies at the intersection of Graph Neural Networks, Information Retrieval, Explainable AI (XAI), and Generative AI. I am passionate about developing models that bridge human understanding and machine learning, focusing on long text summarization, anomaly detection in complex networks, and generating meaningful data representations.
+
+I aim to explore how representation learning and GenAI can capture high-level semantics in attributed networks, improving explainability and real-world applicability. Additionally, I am intrigued by leveraging large language models and generative systems for cultural heritage preservation and digital twin systems, aspiring to uncover actionable insights from both structured and unstructured data.
 
 # Where I Learned
 
