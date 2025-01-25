@@ -21,7 +21,7 @@ I am currently looking for PhD positions in Europe in the field of Generative AI
 - **Languages:** Python - Go - JS - SQL.
 - **Frameworks:** PyTorch - TensorFlow - Keras - Django - Node.js.
 - **Databases:** MongoDB - MySQL - PostgreSQL.
-- **Tools:** Git - $\LaTeX$ - VSCode - PyCharm - Jira - Docker - Jupyter Notebook.
+- **Tools:** Git - LaTeX - VSCode - PyCharm - Jira - Docker - Jupyter Notebook.
 
 # My Journey
 
