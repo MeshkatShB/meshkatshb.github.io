@@ -1,6 +1,6 @@
 ---
 title: "OpenAI o3 Mini: A Game-Changer for AI-Powered Reasoning and Coding"
-date: 2025-02-o1
+date: 2025-02-01
 permalink: /posts/2025/02/openai-o3-mini/
 tags:
   - OpenAI
