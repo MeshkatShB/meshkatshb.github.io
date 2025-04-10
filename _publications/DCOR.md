@@ -1,7 +1,7 @@
 ---
 title: "DCOR: Anomaly Detection in Attributed Networks via Dual Contrastive Learning Reconstruction"
 collection: publications
-category: chapters
+category: conferences
 permalink: /publication/DCOR
 excerpt: # "This paper is about fixing template issue #693."
 date: 2024-02-17
