@@ -113,7 +113,7 @@ Starting now:
 - **Pro, Plus, and Team** users get o3, o4-mini, and o4-mini High.
 - **Enterprise and Edu** rollout starts next week.
 - API support for tool use will launch in the coming weeks.
-- **o3 Pro** coming soon to replace 01 Pro.
+- **o3 Pro** coming soon to replace o1 Pro.
 
 ---
 
