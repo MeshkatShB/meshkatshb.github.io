@@ -76,7 +76,7 @@ The server is an **independent module** that:
 
 ## Example: MCP Server with Python
 
-Using Anthropic’s [Python SDK](https://github.com/anthropics/devtools), you can spin up a server that connects tools to Claude Desktop.
+Using Anthropic’s [Python SDK](https://github.com/anthropics/anthropic-sdk-python), you can spin up a server that connects tools to Claude Desktop.
 
 ### Steps:
 
@@ -114,7 +114,3 @@ MCP makes AI apps:
 - More powerful 💡
 
 You define your own workflows and carry them between environments or apps — all with just a bit of Python and MCP.
-
----
-
-> Want to get started? Clone the [example repo](https://github.com/anthropics/devtools) and spin up your first MCP server today.
