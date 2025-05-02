@@ -10,6 +10,8 @@ tags:
   - Anthropic
 ---
 
+By learning new concepts introduced in the AI world, you can always be a better developer, having a better understanding of what's new and what technologies should you adapt. MCP introduced by Anthropic is one of these major new incoming concepts into the world of AI. This is a detailed guide on how to build a custom Model Context Protocol (MCP) server using Python.
+
 # Introduction
 
 In this post, we’ll explore what the **Model Context Protocol (MCP)** is and how to build a **custom MCP server using Python**. If you've been hearing about MCP and wondering what it does or why it's important, this guide is for you.
