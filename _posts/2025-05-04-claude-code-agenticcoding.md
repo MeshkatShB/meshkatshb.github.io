@@ -12,7 +12,7 @@ tags:
   - Tools
 ---
 
-# AI Coding Is Not Enough: Why Agentic Coding with Claude Code Is the Future
+# Why Agentic Coding with Claude Code Is the Future
 
 There’s a next-level feature inside of Claude Code that, once you truly see it, it’s impossible to unsee.
 
