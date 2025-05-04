@@ -1,7 +1,7 @@
 ---
 title: "AgenticCoding: Why Agentic Coding with Claude Code Is the Future"
 date: 2025-05-04
-description: Learn why traditional AI coding tools fall short, and how Claude Code enables programmable, agentic workflows that scale your impact.
+permalink: /posts/2025/05/claude-code-agenticcoding/
 tags:
   - AI Coding
   - Agentic Coding
