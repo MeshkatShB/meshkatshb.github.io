@@ -39,10 +39,10 @@ MCP uses a **client-server architecture**:
 - The **client** (e.g. Claude Desktop) sends requests.
 - The **server** (your custom code) responds with tools, resources, or prompts.
 
-Think of it like a **coffee shop**:
+Think of it like a **shopping store**:
 
-- You (client) ask for a Pumpkin Spice Latte.
-- The barista (server) prepares and serves it.
+- You (client) ask for a cloth.
+- The salesperson (server) prepares and gives it to you.
 
 ---
 
