@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone! My name is Meshkat, which means 'placeholder for light' in my native language. Welcome to my personal webpage!
+Hello everyone! My name is Meshkat, which means 'Lantern' in my native language. Welcome to my personal webpage!
 
 Feel free to check out my **_GitHub repository_** here: [_GitHub_](https://github.com/meshkatshb)
 
