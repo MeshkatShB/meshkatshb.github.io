@@ -9,10 +9,6 @@ tags:
   - Governance
 ---
 
-# Security and Governance in the Age of Agentic AI
-
-## Introduction
-
 Agentic AI is no longer a futuristic concept — it’s already here. These aren’t simple chatbots anymore. These are **autonomous agents** that can schedule appointments, trade stocks, extract data, or even make purchases without waiting for a human to click a button.
 
 According to Gartner, **one third of enterprise applications will include agentic AI by 2028** — and that timeline is closer than it might initially seem. The potential is huge, but so is the risk.
