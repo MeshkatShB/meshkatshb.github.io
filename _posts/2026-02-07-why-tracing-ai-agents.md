@@ -9,7 +9,7 @@ tags:
   - Debugging
 ---
 
-You launch your agent — and yesterday it worked perfectly. Today it crashes.
+You launch your agent, and yesterday it worked perfectly. Today it crashes.
 
 You pull up the logs and scan the codebase. Maybe it’s hallucination. Maybe the context window overflowed. But the real problem is this: **you can’t tell**.
 
