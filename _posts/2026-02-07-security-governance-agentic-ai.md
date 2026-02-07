@@ -1,6 +1,5 @@
 ---
-
-## title: "Security and Governance in the Age of Agentic AI"
+title: "Security and Governance in the Age of Agentic AI"
 date: 2026-02-07
 permalink: /posts/2026/02/security-governance-agentic-ai/
 tags:
@@ -8,6 +7,7 @@ tags:
   - Agentic
   - Security
   - Governance
+---
 
 # Security and Governance in the Age of Agentic AI
 
@@ -17,7 +17,7 @@ Agentic AI is no longer a futuristic concept — it’s already here. These aren
 
 According to Gartner, **one third of enterprise applications will include agentic AI by 2028** — and that timeline is closer than it might initially seem. The potential is huge, but so is the risk.
 
-This new level of autonomy brings with it not just innovation, but serious **governance and security challenges**. Unlike traditional rules-based software, agentic AI systems *learn and adapt in real time* — they interpret data, make decisions, and *act* on their interpretations. That flexibility is powerful — but also potentially dangerous.
+This new level of autonomy brings with it not just innovation, but serious **governance and security challenges**. Unlike traditional rules-based software, agentic AI systems _learn and adapt in real time_ — they interpret data, make decisions, and _act_ on their interpretations. That flexibility is powerful — but also potentially dangerous.
 
 In this post, I’ll walk through:
 

@@ -1,6 +1,5 @@
 ---
-
-## title: "Collaborating AI Agents with A2A"
+title: "Collaborating AI Agents with A2A"
 date: 2026-02-07
 permalink: /posts/2026/02/A2A-protocol/
 tags:
@@ -8,6 +7,7 @@ tags:
   - A2A
   - Agent
   - Protocol
+---
 
 # Overview of Google’s A2A Protocol for AI Agent Collaboration
 
