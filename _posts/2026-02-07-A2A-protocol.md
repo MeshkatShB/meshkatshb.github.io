@@ -9,8 +9,6 @@ tags:
   - Protocol
 ---
 
-# Overview of Google’s A2A Protocol for AI Agent Collaboration
-
 Today I’m sharing an in-depth overview of the **A2A protocol** created by Google — a standard designed to enable AI agents to communicate and collaborate with each other seamlessly, even if they’re built with entirely different systems.
 
 ---
