@@ -9,7 +9,7 @@ tags:
   - Remote Embedding
 ---
 
-Remote Embedding: run your embeddings on one server to load it once in a GPU for better optimization. Install it via [PyPI](https://pypi.org/project/remote-embedding/) with below command and check out the GitHub Repository at [Remote-Embedding](https://github.com/MeshkatShB/remote-embedding):
+I created and maintain `remote-embedding`, a Python package for running embeddings on one server so the model can be loaded once on a GPU and reused across multiple applications. Install it via [PyPI](https://pypi.org/project/remote-embedding/) with the command below, and check out the GitHub repository at [Remote-Embedding](https://github.com/MeshkatShB/remote-embedding):
 
 ```bash
 pip install remote-embedding
