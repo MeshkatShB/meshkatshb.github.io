@@ -13,9 +13,8 @@ tags:
   - AI Architecture
 ---
 
-# Understanding AI Agent Memory: The Four Memory Systems Behind Intelligent Agents
 
-One of the biggest differences between a chatbot and an AI agent is **memory**.
+One of the biggest differences between a chatbot and an AI agent is **memory**. In this blogpost, I will cover: "Understanding AI Agent Memory: The Four Memory Systems Behind Intelligent Agents"
 
 A chatbot responds based on the information available in its current context window. An AI agent, however, can leverage multiple forms of memory to retain knowledge, learn from experience, execute complex procedures, and maintain context across interactions.
 
