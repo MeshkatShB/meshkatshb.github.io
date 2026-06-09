@@ -17,6 +17,8 @@ tags:
 
 Agentic-AI is a local-first AI agent workspace that combines chat, document retrieval, tool execution, MCP integrations, browser automation, reminders, Telegram access, Exchange/EWS actions, and a Chrome extension into one practical assistant platform. It is built for people who want an AI agent that can work with local files, uploaded documents, web pages, APIs, scheduled tasks, and external tools while keeping control, permissions, and model choice in the user's hands.
 
+This project is available at GitHub: [MeshkatShB/Agentic-AI](https://github.com/MeshkatShB/Agentic-AI)
+
 # Building A Local-First AI Agent Workspace With Tools, Documents, MCP, Browser Automation, And Telegram
 
 AI assistants are becoming more capable every month, but many of the most useful workflows still need more than a chat box. They need private documents, local context, real tools, scheduling, browser actions, external integrations, and a way to keep the user in control.
