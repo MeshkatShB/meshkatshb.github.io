@@ -1,56 +1,43 @@
 ---
 permalink: /
-title: "A Little About Me"
+title: "About"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Hello everyone! My name is Meshkat, which means 'Lantern' in my native language. Welcome to my personal webpage!
+I am **Meshkat Shariat Bagheri**, an **AI Engineer** focused on enterprise-grade **agentic AI**, **local LLM systems**, **RAG applications**, and **NLP**. My current work is practical and local-first: building agents that connect private models, company documents, databases, messaging tools, CRM systems, and internal workflows without sending sensitive data out of the organization.
 
-Feel free to check out my **_GitHub repository_** here: [_GitHub_](https://github.com/meshkatshb)
+My recent engineering work centers on local LLM agents with tool calling, retrieval pipelines, hybrid vector search, OCR over scanned enterprise documents, CRM case intelligence, document-review agents, natural-language database search, and Persian ASR. I like systems where the model is only one part of the machine: permissions, retrieval quality, observability, indexing jobs, evaluation hooks, and user feedback loops matter just as much.
 
-Featured open-source work: I created and maintain [`remote-embedding`](https://github.com/MeshkatShB/remote-embedding), a PyPI package for running embedding models as a shared FastAPI service so multiple RAG, semantic search, and agentic AI applications can reuse one loaded GPU model instead of duplicating VRAM usage. The package is available on [PyPI](https://pypi.org/project/remote-embedding/).
+I am currently an **AI Engineer at Gam Electronics** on the Almas Team, where I build production-ready local AI systems integrated with OracleDB, Microsoft CRM/Dynamics 365, RocketChat, Zulip, Exchange/EWS, Milvus, and internal document platforms.
 
-I hold a Bachelor's degree in **Computer Engineering** and a Master's degree in **Information Technology Engineering** from the [_University of Tehran_](https://ut.ac.ir), [_College of Interdisciplinary Sciences and Technology_](https://cist.ut.ac.ir), graduating with a GPA of 3.61/4.0. My Master's thesis titled: **"Text Summarization with Graph Neural Networks,"** explored scalable methods for long-text summarization and highlighted the importance of transparent AI models.. My research interests include _Large Language Models_, _Natural Language Processing_, _Artificial Intelligence (AI)_, _Machine Learning (ML)_, _Social Network Analysis_, and _Software Engineering_.
+I also created and maintain [`remote-embedding`](https://github.com/MeshkatShB/remote-embedding), a Python package on [PyPI](https://pypi.org/project/remote-embedding/) that exposes embedding models through a shared FastAPI service and a LangChain-compatible client. The goal is simple: load an embedding model once, then let multiple RAG and semantic-search applications reuse it without duplicating GPU memory.
 
-> I am currently looking for PhD positions in Europe in the field of Generative AI, NLP, Software Engineering, and Graphs.
+## Focus Areas
 
-I have actively contributed to the `browser-use/web-ui` open-source project, implementing key features such as a `RAG implementation` and functionality for saving and using user settings to enhance the overall experience. I also focused on improving system stability by addressing critical issues, including resolving exceptions and fixing errors like `UnboundLocalError`.
+- **Agentic AI:** tool-calling agents, multi-step workflows, memory, streamed responses, tool-call traces, evaluation, and local-first deployment.
+- **RAG and retrieval:** dense + BM25 hybrid search, semantic search, exact-match boosts, score thresholds, chunk cleanup, source previews, and permission-aware retrieval.
+- **Enterprise AI systems:** CRM retrieval and analytics, document search, invoice generation, meeting-minutes generation, email RAG, quality scoring, and operations automation.
+- **NLP and research:** graph neural networks, long-text summarization, information retrieval, anomaly detection in attributed networks, and multilingual AI.
+- **Engineering stack:** Python, LangChain, LangGraph, Ollama, Llama.cpp, PyTorch, Transformers, FastAPI, Streamlit, Gradio, Milvus, FAISS, Qdrant, OracleDB, PostgreSQL, Redis, Docker, and Linux.
 
-My contributions extended to backend optimizations, such as adding necessary packages to the Dockerfile, integrating a base URL for ChatOllama to interact with remote servers, and introducing an LLM provider with default model settings to suppress warnings. Additionally, I streamlined the codebase through cleanup efforts and updated documentation, ensuring the project is maintainable and scalable for future development.
+## Selected Work
 
-# My Expertise
+- Built a fully local enterprise RAG agent platform with reasoning models, company documents, tool catalogs, conversation memory, streamed responses, and traceable tool calls.
+- Developed an access-controlled letter-search agent with Exchange login, Oracle-backed access mapping, per-letter permission checks, Milvus retrieval, reconstructed full-text answers, previews, and feedback analytics.
+- Engineered OCR pipelines using DeepSeek-OCR and other OCR/VLM models for 250k+ OracleDB document records with multiple scanned pages per record.
+- Improved Milvus retrieval quality with dense + BM25 hybrid search, multi-concept ranking, Persian exact-match boosts, adaptive thresholds, duplicate cleanup, and nightly indexing jobs.
+- Designed document-review and fact-checking agents that extract claims, retrieve evidence, and identify contradictions, missing support, logic changes, and conditional conflicts.
+- Built natural-language-to-OracleDB search, CRM resolved-case retrieval, CRM analytics, email RAG, meeting-minutes generation, invoice generation, page-aware browser workflows, and Persian ASR applications.
 
-- **General:** GenAI - NLP - AI - ML - GNNs - Data Science.
-- **Languages:** Python - Go - JS - SQL.
-- **Frameworks:** PyTorch - TensorFlow - Keras - Django - Node.js.
-- **Databases:** MongoDB - MySQL - PostgreSQL.
-- **Tools:** Git - LaTeX - VSCode - PyCharm - Jira - Docker - Jupyter Notebook.
+## Education and Research
 
-# My Journey
+I am a **Ph.D. student in Information Technology Engineering at Shahid Beheshti University**, working around Generative AI in Business Architecture. I earned my **M.Sc. in Information Technology Engineering** and **B.Sc. in Computer Engineering** from the **University of Tehran**.
 
-From crafting push notification solutions at Najva to designing robust software architectures at Gamelectronics, my journey as a Software Engineer has been marked by impactful contributions. At Najva, I enhanced advertising systems with cutting-edge push notification technologies.
+My master's thesis, **"Text Summarization with Graph Neural Networks,"** introduced a Community Detection Long-Text Summarization model combining community detection with graph attention networks. My publication work includes **DCOR: Anomaly Detection in Attributed Networks via Dual Contrastive Learning Reconstruction**, published in *Complex Networks & Their Applications XIII*.
 
-Later, at Gamelectronics, I spearheaded the redesign and optimization of the company’s software architecture, significantly improving documentation and document retrieval efficiency. Each role has been a step toward mastering innovative solutions that deliver real-world results.
+## Open Source
 
-# What Drives My Curiosity
-
-My research interests lies at the intersection of Graph Neural Networks, Information Retrieval, Explainable AI (XAI), and Generative AI. I am passionate about developing models that bridge human understanding and machine learning, focusing on long text summarization, anomaly detection in complex networks, and generating meaningful data representations.
-
-I aim to explore how representation learning and GenAI can capture high-level semantics in attributed networks, improving explainability and real-world applicability. Additionally, I am intrigued by leveraging large language models and generative systems for cultural heritage preservation and digital twin systems, aspiring to uncover actionable insights from both structured and unstructured data.
-
-# Where I Learned
-
-### M.Sc. in Information Technology Engineering, University of Tehran, 2020 - 2024
-
-- **GPA**: 3.61/4.0 | **Last Two Semesters**: 3.75/4.0
-- **Thesis**: _Text Summarization with Graph Neural Networks_
-
----
-
-### B.Sc. in Computer Engineering, University of Tehran, 2015 - 2020
-
-- **GPA**: 3.0/4.0 | **Last Two Years**: 3.52/4.0
-- **Thesis**: _Implementing OpenStack as an IoT (Internet of Things) Platform_
+Alongside `remote-embedding`, I contribute to local-first and AI tooling projects, including Google LangExtract and browser-use WebUI. My learning repositories, including LangChain Zero to Mastery and LLM Zero to Mastery, collect hands-on notes and practical implementations from my work with LLMs, RAG, NLP, and software engineering.
