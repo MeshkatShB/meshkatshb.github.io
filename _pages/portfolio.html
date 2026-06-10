@@ -5,6 +5,11 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %} {% assign sorted_portfolio = site.portfolio | sort:
-"priority" %} {% for post in sorted_portfolio %} {% include archive-single.html
-%} {% endfor %}
+{% include base_path %}
+
+Selected AI engineering, open-source, research, and software projects. The current focus is local-first agentic AI, enterprise RAG, OCR, retrieval systems, CRM intelligence, and practical LLM infrastructure.
+
+{% assign sorted_portfolio = site.portfolio | sort: "priority" %}
+{% for post in sorted_portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
