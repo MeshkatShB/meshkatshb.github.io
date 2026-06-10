@@ -1,74 +1,22 @@
 ---
 title: "LLM Zero to Mastery"
-excerpt: "A comprehensive guide to mastering Large Language Models (LLMs) through hands-on projects."
+excerpt: "A hands-on learning repository for local LLMs, RAG, fine-tuning, instruction tuning, and practical AI engineering."
 collection: portfolio
-priority: 1
+priority: 7
 ---
 
-**About:**  
-This repository is a comprehensive guide to mastering Large Language Models (LLMs) through hands-on projects. It provides step-by-step implementations of advanced techniques like Retrieval-Augmented Generation (RAG), fine-tuning GPT models, and instruction-tuning. Each module is designed to help users effectively learn and apply LLM concepts with practical examples.
+[LLM Zero to Mastery](https://github.com/MeshkatShB/llm-zero-to-mastery) is my hands-on learning repository for large language models and practical AI engineering.
 
----
+The repository collects experiments, notes, and implementations around local RAG, transformer fine-tuning, instruction tuning, and model evaluation. I use it as a structured place to turn new concepts into runnable code.
 
-## Structure
+## Topics
 
-### 1. Local-RAG
+- Local Retrieval-Augmented Generation over PDF and document collections.
+- Vector database creation and document retrieval.
+- Fine-tuning GPT-style models with Hugging Face tooling.
+- Instruction tuning and instruction-response dataset preparation.
+- Practical model testing, evaluation, and reuse.
 
-**Directory:** `Local-RAG/`  
-This module demonstrates the implementation of a simple local Retrieval-Augmented Generation (RAG) pipeline. Key steps include:
+## Technologies
 
-- **PDF Processing:** Extracts text from PDF files in the `./data` directory.
-- **Vector Database Creation:** Creates and stores vectorized representations of documents.
-- **Query Handling:** Retrieves relevant documents based on user queries using a vector database.
-- **Response Generation:** Utilizes OpenAI's Ollama model to generate contextually accurate responses.
-
-**Outcome:** Enables local document-based Q&A systems, making it a practical tool for managing and querying personal data collections.
-
----
-
-### 2. Fine-Tuning GPT-2
-
-**Directory:** `Fine-Tuning-GPT2/`  
-This module focuses on fine-tuning GPT-2 for custom tasks. The workflow includes:
-
-- **Dataset Preparation:** Loads, tokenizes, and processes text datasets.
-- **Fine-Tuning:** Adjusts GPT-2 on task-specific data using Hugging Face's Trainer API.
-- **Model Testing and Evaluation:** Assesses performance with custom prompts and task examples.
-- **Model Saving:** Saves the fine-tuned model locally for reuse.
-
-**Outcome:** Customizes GPT-2 to generate domain-specific text, making it suitable for tailored applications.
-
----
-
-### 3. Instruction-Tuning
-
-**Directory:** `instruction_tuning/`  
-This module introduces instruction-tuning, a method to align LLM outputs with specific tasks using task-specific instructions and examples. Key features include:
-
-- **Data Preparation:** Converts datasets into instruction-response pairs.
-- **Fine-Tuning:** Leverages pre-trained transformer models to train on task-specific instructions.
-- **Evaluation:** Tests the model’s alignment and performance on user-defined tasks.
-
-**Outcome:** Produces LLMs refined for instruction-based tasks, significantly improving their alignment to specific needs.
-
----
-
-### 4. Future Modules
-
-The repository is continuously evolving, with plans to introduce more advanced LLM techniques and projects soon.
-
----
-
-## Technologies Used
-
-- Python, Hugging Face Transformers, PyTorch.
-
----
-
-## Key Takeaways
-
-- Provides hands-on experience with cutting-edge LLM techniques.
-- Helps users build practical applications with LLMs, from RAG systems to fine-tuned models.
-- Guides users through complex processes with clear, structured implementations.
-
-**Explore the repository here:** [LLM Zero to Mastery](https://github.com/MeshkatShB/llm-zero-to-mastery)
+Python, PyTorch, Hugging Face Transformers, vector search, RAG, and Jupyter notebooks.
