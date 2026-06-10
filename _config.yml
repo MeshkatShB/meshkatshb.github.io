@@ -11,7 +11,7 @@ locale: "en-US"
 title: "Meshkat Shariat Bagheri"
 title_separator: "-"
 name: &name "Meshkat"
-description: &description "personal description"
+description: &description "AI Engineer focused on Agentic AI, local LLM systems, RAG, NLP, OCR, and enterprise AI applications."
 url: https://meshkatshb.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "meshkatshb/meshkatshb.github.io"
@@ -22,13 +22,13 @@ repository: "meshkatshb/meshkatshb.github.io"
 author:
   # Biographic information
   avatar: "profile-pic-2.png"
-  name: "Meshkat"
+  name: "Meshkat Shariat Bagheri"
   pronouns: "he/him"
-  bio: "Bridging code and creativity to shape a smarter world!"
-  location: # "Iran"
-  employer: # "University of Tehran"
+  bio: "AI Engineer building local-first agents, RAG systems, OCR pipelines, and enterprise LLM applications."
+  location: "Tehran, Iran"
+  employer: "Gam Electronics"
   uri: # URL
-  email: "m.shariatbagheri@ut.ac.ir"
+  email: "meshkatshb@gmail.com"
 
   # Academic websites
   arxiv: # URL - Update with the correct link to your profile
