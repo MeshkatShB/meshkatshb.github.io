@@ -14,8 +14,6 @@ tags:
   - AI Engineering
 ---
 
-Modern AI coding agents can do much more than generate code.
-
 Tools like **Claude Code**, **Codex**, and other coding agents can inspect a repository, understand files, create a plan, modify multiple files, execute terminal commands, run tests, inspect errors, and continue working toward a solution.
 
 It can almost look as though the underlying AI model has direct control over your computer.
