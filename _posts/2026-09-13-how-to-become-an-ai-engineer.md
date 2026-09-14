@@ -14,7 +14,7 @@ tags:
   - Career
 ---
 
-# How to Become an AI Engineer: The Skills You Actually Need
+How to Become an AI Engineer: The Skills You Actually Need
 
 The path into AI engineering looks different from the traditional path
 into software or machine learning research.

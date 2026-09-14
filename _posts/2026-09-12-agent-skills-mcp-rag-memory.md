@@ -15,7 +15,7 @@ tags:
   - AI Engineering
 ---
 
-# Agent Skills vs. MCP vs. RAG vs. Memory
+Agent Skills vs. MCP vs. RAG vs. Memory
 
 An AI agent cannot rely only on what its underlying model learned during training. Real-world tasks often require information specific to your organization, systems, users, or previous incidents.
 

@@ -14,7 +14,7 @@ tags:
   - AI Engineering
 ---
 
-# Graph Engineering for AI Agents: Harnesses, Loops, Graphs, and Swarms
+Graph Engineering for AI Agents: Harnesses, Loops, Graphs, and Swarms
 
 If you've been following recent trends in agentic AI, you may have noticed a new term showing up more often:
 
