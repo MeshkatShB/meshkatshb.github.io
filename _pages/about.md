@@ -7,37 +7,38 @@ redirect_from:
   - /about.html
 ---
 
-I am **Meshkat Shariat Bagheri**, an **AI Engineer** focused on enterprise-grade **agentic AI**, **local LLM systems**, **RAG applications**, and **NLP**. My current work is practical and local-first: building agents that connect private models, company documents, databases, messaging tools, CRM systems, and internal workflows without sending sensitive data out of the organization.
+I am **Meshkat Shariat Bagheri**, a **Senior AI Engineer** based in Tehran, building enterprise search and workflow automation with **local LLMs**, **agentic AI**, and **retrieval-augmented generation (RAG)**. I connect language models with organizational documents, databases, and business tools to help people find reliable answers and complete everyday work.
 
-My recent engineering work centers on local LLM agents with tool calling, retrieval pipelines, hybrid vector search, OCR over scanned enterprise documents, CRM case intelligence, document-review agents, natural-language database search, and Persian ASR. I like systems where the model is only one part of the machine: permissions, retrieval quality, observability, indexing jobs, evaluation hooks, and user feedback loops matter just as much.
+I work on the **Almas Team at Gam Electronics**, where I joined as an AI Engineer in June 2025 and became a Senior AI Engineer in October 2026. I partner with Sales, Support, HR, and Production leads and the CEO to translate business requirements into AI applications and lead their architecture and deployment. My work spans internal tools serving 1–15 users each and AI features in customer-facing products with up to 10,000 users.
 
-I am currently an **AI Engineer at Gam Electronics** on the Almas Team, where I build production-ready local AI systems integrated with OracleDB, Microsoft CRM/Dynamics 365, RocketChat, Zulip, Exchange/EWS, Milvus, and internal document platforms.
-
-I also created and maintain [`remote-embedding`](https://github.com/MeshkatShB/remote-embedding), a Python package on [PyPI](https://pypi.org/project/remote-embedding/) that exposes embedding models through a shared FastAPI service and a LangChain-compatible client. The goal is simple: load an embedding model once, then let multiple RAG and semantic-search applications reuse it without duplicating GPU memory.
+My approach puts access control, source evidence, evaluation, and human approval alongside model quality. Earlier software engineering roles at Gam Electronics and Najva gave me a foundation in .NET applications, Python/Django services, and database optimization.
 
 ## Focus Areas
 
-- **Agentic AI:** tool-calling agents, multi-step workflows, memory, streamed responses, tool-call traces, evaluation, and local-first deployment.
-- **RAG and retrieval:** dense + BM25 hybrid search, semantic search, exact-match boosts, score thresholds, chunk cleanup, source previews, and permission-aware retrieval.
-- **Enterprise AI systems:** CRM retrieval and analytics, document search, invoice generation, meeting-minutes generation, email RAG, quality scoring, and operations automation.
-- **NLP and research:** graph neural networks, long-text summarization, information retrieval, anomaly detection in attributed networks, and multilingual AI.
-- **Engineering stack:** Python, LangChain, LangGraph, Ollama, Llama.cpp, PyTorch, Transformers, FastAPI, Streamlit, Gradio, Milvus, FAISS, Qdrant, OracleDB, PostgreSQL, Redis, Docker, and Linux.
+- **Agentic AI and automation:** tool calling, multi-agent systems, LangGraph workflows, evaluation, auditable actions, and approval checkpoints.
+- **Enterprise search:** RAG, GraphRAG, dense/BM25 hybrid retrieval, embeddings, OCR, and permission-aware answers.
+- **Language and speech:** Persian writing assistance, summarization, speech recognition, information extraction, and document review.
+- **Engineering stack:** Python, SQL, TypeScript, FastAPI, React, LangChain, LangGraph, vLLM, Ollama, Llama.cpp, PyTorch, Transformers, Langfuse, Milvus, Neo4j, OracleDB, SQL Server, PostgreSQL, Redis, Docker, and Linux.
 
 ## Selected Work
 
-- Built a fully local enterprise RAG agent platform with reasoning models, company documents, tool catalogs, conversation memory, streamed responses, and traceable tool calls.
-- Developed an access-controlled letter-search agent with Exchange login, Oracle-backed access mapping, per-letter permission checks, Milvus retrieval, reconstructed full-text answers, previews, and feedback analytics.
-- Engineered OCR pipelines using DeepSeek-OCR and other OCR/VLM models for 250k+ OracleDB document records with multiple scanned pages per record.
-- Improved Milvus retrieval quality with dense + BM25 hybrid search, multi-concept ranking, Persian exact-match boosts, adaptive thresholds, duplicate cleanup, and nightly indexing jobs.
-- Designed document-review and fact-checking agents that extract claims, retrieve evidence, and identify contradictions, missing support, logic changes, and conditional conflicts.
-- Built natural-language-to-OracleDB search, CRM resolved-case retrieval, CRM analytics, email RAG, meeting-minutes generation, invoice generation, page-aware browser workflows, and Persian ASR applications.
+- **Enterprise letter search:** Architected a Milvus/Neo4j RAG pipeline that returns cited answers in **under 15 seconds**, with **approximately 99% accuracy on 100 evaluation questions**. Oracle permissions are enforced before retrieval and answer generation. OCR, incremental indexing, hybrid retrieval, and Persian ranking made scanned correspondence searchable in an archive of **250k+ records**.
+- **CRM and business insights:** Built a Dynamics 365 copilot that reduced reporting time from approximately **5 minutes to 1 minute (80%)**. Delivered sales and proposal assistants using read-only SQL Server queries and traceable CRM evidence, plus a bonus assistant with deterministic payout calculations and natural-language explanations.
+- **Persian writing and voice applications:** Developed local LLM APIs for correspondence drafts, revisions, and summaries. Built voice-based support with grounded answers and consent-based CRM case creation, alongside meeting transcription workflows that produce minutes and proposed Jira actions.
+- **Workflow automation:** Converted monitoring emails and logs into CRM incidents and draft correspondence with LangGraph approval checkpoints. Built a Jira agent for worklog analysis, capacity forecasts, and Epic progress reports, with authenticated previews and approval for write actions.
+- **Smart inbox and document review:** Designed an inbox that summarizes authorized letters, highlights deadlines and decisions, and recommends recipients using a LinUCB ranker trained on feedback. Built claim-level retrieval and contradiction checks across **seven document formats**, with source evidence for review.
 
 ## Education and Research
 
-I am a **Ph.D. student in Information Technology Engineering at Shahid Beheshti University**, working around Generative AI in Business Architecture. I earned my **M.Sc. in Information Technology Engineering** and **B.Sc. in Computer Engineering** from the **University of Tehran**.
+I am a **Ph.D. student in Information Technology Engineering at Shahid Beheshti University** (since September 2024). My proposed research explores **agentic AI for capability-centric business architecture**. I earned my **M.Sc. in Information Technology Engineering** (2024) and **B.Sc. in Computer Engineering** (2020) from the **University of Tehran**.
 
-My master's thesis, **"Text Summarization with Graph Neural Networks,"** introduced a Community Detection Long-Text Summarization model combining community detection with graph attention networks. My publication work includes **DCOR: Anomaly Detection in Attributed Networks via Dual Contrastive Learning Reconstruction**, published in *Complex Networks & Their Applications XIII*.
+My master's research investigated long-text summarization using community detection and Graph Attention Networks (**CDLTS**). I also co-authored **[DCOR: Anomaly Detection in Attributed Networks via Dual Contrastive Learning Reconstruction]({{ '/publication/DCOR' | relative_url }})**, published in Springer's *Complex Networks & Their Applications XIII*.
+
+From 2019 to 2025, I supported six courses as a teaching assistant at the University of Tehran, covering network analysis, systems theory, research methods, security, operating systems, and networking. I ranked **4th nationally** in the 2024 Ph.D. entrance exam for Information Technology.
 
 ## Open Source
 
-Alongside `remote-embedding`, I contribute to local-first and AI tooling projects, including Google LangExtract and browser-use WebUI. My learning repositories, including LangChain Zero to Mastery and LLM Zero to Mastery, collect hands-on notes and practical implementations from my work with LLMs, RAG, NLP, and software engineering.
+- **[`remote-embedding`](https://github.com/MeshkatShB/remote-embedding):** I created this [PyPI package](https://pypi.org/project/remote-embedding/) to share one embedding model across applications through a FastAPI service and LangChain client, reducing GPU memory use from approximately **9 GB to 3 GB (67%)**. It supports CPU/GPU batching, request timeouts, dimension validation, and connection cleanup.
+- **[Google LangExtract](https://github.com/google/langextract):** Added Llama.cpp support for local information extraction on CPUs and improved extraction visualization for Persian, Chinese, and Japanese.
+- **[browser-use WebUI](https://github.com/browser-use/web-ui):** Improved default LLM configurations, settings, configuration warnings, runtime stability, and CLI documentation.
+- **Learning resources:** I maintain [LangChain Zero to Mastery](https://github.com/MeshkatShB/langchain-zero-to-mastery) and [LLM Zero to Mastery](https://github.com/MeshkatShB/llm-zero-to-mastery), two tutorial repositories with practical implementations for LangChain and LLM development.
